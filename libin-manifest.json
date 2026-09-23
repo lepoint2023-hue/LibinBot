@@ -1,0 +1,28 @@
+{
+  "name": "LibinBot — Commune de Libin",
+  "short_name": "LibinBot",
+  "description": "Assistante IA officielle de la Commune de Libin",
+  "start_url": "/LibinBot/",
+  "scope": "/LibinBot/",
+  "display": "standalone",
+  "background_color": "#160A74",
+  "theme_color": "#160A74",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/LibinBot/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/LibinBot/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["government", "utilities"],
+  "screenshots": []
+}
